@@ -1,0 +1,1 @@
+Example app to reproduce the following bug in the Facebook Android SDK: https://developers.facebook.com/bugs/457446760987485
